@@ -3,7 +3,7 @@ layout: post
 title:  "Heart strings"
 date:   2017-10-15
 excerpt: "Narrative film"
-image: "/images/string3.jpg"
+image: "/images/string3.JPG"
 ---
 
 ## Basic info
