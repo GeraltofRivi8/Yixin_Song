@@ -3,7 +3,7 @@ layout: post
 title:  "Cigarette Rocketfuel"
 date:   2017-8-1
 excerpt: "A narrative short"
-image: "/images/rocket1.jpg"
+image: "/images/rocket1.JPG"
 ---
 
 ## Basic info
