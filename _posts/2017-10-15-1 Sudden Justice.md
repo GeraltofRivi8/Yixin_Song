@@ -17,5 +17,3 @@ I wrote the script and designed the mechanic, my friend Zuo Chen programmed and 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vRbKgyqlSrA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Features
-
