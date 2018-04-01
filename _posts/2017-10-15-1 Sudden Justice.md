@@ -15,7 +15,7 @@ I wrote the script and designed the mechanic, my friend Zuo Chen programmed and 
 
 The game is set to tell a story about a drone pilot. I wanna discuss the personal struggle of a military drone operator who are often ordered to kill innocent people. 
 
-![alt text](/Users/Geralt/Downloads/massively/images/suddenjustice.jpg)
+![My helpful screenshot]({{"/images/sudden2.jpg" | absolute_url}})
 
 Here is a demo video:
 
