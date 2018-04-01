@@ -13,6 +13,8 @@ Date : Summer 2017
 
 The film was a oversea class project. 
 
+It is a story about a musician encountering another musician, the love and hate relationship between them. 
+
 ![My helpful screenshot]({{"/images/string4.JPG" | absolute_url}})
 
 The film was shot in Italy by a group of film students. I co-wrote the screenplay. 
