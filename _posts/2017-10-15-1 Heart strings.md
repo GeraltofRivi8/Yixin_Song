@@ -11,7 +11,7 @@ Heart strings is a narrative film focusing on two musicians.
 
 Date : Summer 2017
 
-The film was a oversea class project. 
+The film was an oversea class project. 
 
 It is a story about a musician encountering another musician, the love and hate relationship between them. 
 
